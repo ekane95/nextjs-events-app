@@ -2,7 +2,7 @@ import Image from 'next/image';
 import AddressIcon from '../icons/address-icon';
 import ArrowRightIcon from '../icons/arrow-right-icon';
 import DateIcon from '../icons/date-icon';
-import Button from '../ui/Button';
+import Button from '../ui/CustomButton';
 
 import classes from './event-item.module.css';
 

@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Button from "../ui/Button";
+import Button from "../ui/CustomButton";
 import classes from './events-search.module.css';
 import { useRef } from "react";
 
